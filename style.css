@@ -1,0 +1,73 @@
+header{
+    color: white;
+    background: black;
+    height: 50px;
+    margin: -70px 10px 0px -50px;
+    width: 2000px;
+    font-size: 35px;
+
+
+}
+body{
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    margin: 70px 50px 20px;
+}
+
+main{
+    height: 900px;
+    font-size: 20px;
+}
+
+footer{
+    color: white;
+    background: black;
+    height: 200px;
+    margin: 0px 10px 0px -40px;
+    width: 5000px;
+}
+
+h1{
+    height: 40px;
+}
+#formx{
+    height: 500px;
+    margin: 0px auto 80px auto;
+    width: 800px;
+}
+input{
+    height:50px;
+    width:300px;
+}
+.vk{
+    color: white;
+}
+.left-column{
+    width:50%;
+    height: 400px;
+    float: left;
+    display: inline-block;
+}
+.right-column{
+    width:50%;
+    height: 400px;
+    float: left;
+    display: inline-block;
+}
+
+.elementL{
+    width: 308px;
+    height: 60px;
+    float: left;
+    margin:  20px 60px;
+    justify-content: space-between;
+}
+.elementR{
+    width: 308px;
+    height: 60px;
+    float: right;
+    margin:  20px 60px;
+    justify-content: space-between;
+}
