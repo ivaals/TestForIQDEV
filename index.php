@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="./style.css">
-    <title>Личный дневник</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>TestForIQDEV</title>
+   
 </head>
 
 <body>
@@ -81,6 +81,3 @@
 
 </body>
 </html>
-
-<!--style="width:50%;height: 200px; float: left; display: inline-block;"
-style="width:50%;height: 200px; float: right; display: inline-block;"   -->
